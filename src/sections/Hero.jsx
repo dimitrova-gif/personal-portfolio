@@ -97,7 +97,7 @@ export const Hero = () => {
               {[
                 { icon: Github, href: "https://github.com/dimitrova-gif" },
                 { icon: Linkedin, href: "https://www.linkedin.com/in/ronilyn-abril-6759341b1/" },
-                { icon: Mail, href: "mailto:ronilynabril215@gmail.com ronilynabril215@Gmail.com" },
+                { icon: Mail, href: "mailto:ronilynabril215@gmail.com ronilynabril215@gmail.com" },
               ].map((social, idx) => (
                 <a
                   key={idx}
@@ -114,11 +114,11 @@ export const Hero = () => {
             {/* profile Image */}
             <div className="relative max-w-md mx-auto">
               <div className="absolute inset-0 rounded-3xl bg-linear-to-br from-primary/30 via-transparent to-primary/10 blur-2xl animate-pulse" />
-              <div className="relative glass rounded-3xl p-2 glow-border">
+              <div className="relative glass w-90 h-110 glow border p-3">
                 <img
-                  src="profile-photo.jpg"
+                  src="profile-photo1.jpg"
                   alt="Roni"
-                  className="w-150 h-150 object-cover rounded-xl"
+                  className=" w-full h-full object-cover  "
                 />
 
                 {/* Floating Badge */}

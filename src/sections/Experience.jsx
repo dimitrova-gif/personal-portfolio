@@ -1,24 +1,6 @@
 const experiences = [
-   {
-    period: "2023 - Present",
-    role: "Frontend Developer (Learning)",
-    company: "Self taught",
-    description:
-      "Learning frontend development through hands-on projects, tutorial and documentation",
-    technologies: ["JavaScript", "Css", "HTML"],
-    current: false,
-  },
-   {
-    period: "2024 - Present",
-    role: "Frontend Developer Student",
-    company: "Online Courses",
-    description:
-      "Learning frontend development through hands-on projects, online course in Software University (Bulgaria)",
-    technologies: ["React", "JavaScript", "HTML", "TailwindCss"],
-    current: false,
-  },
   {
-    period: "2025 - Present",
+    period: "2025 - 2026  Present",
     role: "Frontend engineer (Personal Project)",
     company: "Personal Portfolio",
     description:
@@ -26,6 +8,26 @@ const experiences = [
     technologies: ["React", "TailwindCSS", "Javascript"],
     current: true,
   },
+  {
+    period: "2024 - 2025  Present",
+    role: "Frontend Developer Student",
+    company: "Online Courses",
+    description:
+      "Learning frontend development through hands-on projects, online course in Software University (Bulgaria)",
+    technologies: ["React", "JavaScript", "HTML", "TailwindCss"],
+    current: false,
+  },
+   {
+    period: "2023 - 2024  Present",
+    role: "Frontend Developer (Learning)",
+    company: "Self taught",
+    description:
+      "Learning frontend development through hands-on projects, tutorial and documentation",
+    technologies: ["JavaScript", "CSS", "HTML"],
+    current: false,
+  },
+   
+  
  
  
 ];

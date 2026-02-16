@@ -20,6 +20,24 @@ const projects = [
     link: "https://weather-react-app-sandy.vercel.app/",
     github: "https://dimitrova-gif.github.io/weather-react-app/",
   },
+  {
+    title: "Project Currency converter App",
+    description:
+      "A responsive application built that provides real-time currency exchange rates for over 150+ currencies. Features include live data fetching via API, historical rate charts, and an intuitive UI for quick calculations. ",
+    image: "/projects/converter.jpg",
+    tags: ["JavaScript", "HTML", "CSS" ,"ExchangeRate-API"],
+    link: "https://beautiful-cajeta-58307c.netlify.app//",
+    github: "https://dimitrova-gif.github.io/currency-converter-app/",
+  },
+   {
+    title: "Project To-do-list App",
+    description:
+      "A JavaScript-based to-do app that lets users add, complete, filter, and delete tasks with persistent storage. Built to demonstrate DOM manipulation, event-driven programming, and client-side data management.",
+    image: "/projects/todo.jpg",
+    tags: ["JavaScript", "HTML", "CSS" ],
+    link: "https://musical-sopapillas-7326f7.netlify.app/",
+    github: "https://dimitrova-gif.github.io/todo-App/",
+  },
 ];
 
 export const Projects = () => {
