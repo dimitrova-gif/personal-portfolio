@@ -3,11 +3,11 @@ import { ArrowRight, ChevronDown, Github, Linkedin, Download, Mail} from "lucide
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
 const skills = [
-  "Javascript",
+  "JavaScript",
   "React",
-  "Tailwindcss",
-  "Html",
-  "Css",
+  "TailwindCSS",
+  "HTML",
+  "CSS",
   "Bootstrap",
   
 ];
@@ -65,13 +65,11 @@ export const Hero = () => {
                 Ronilyn
                 <br />
                 <span className="font-serif italic font-normal text-white">
-                  Abril
+                  Dimitrova
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animate-delay-200">
-                A frontend developer specializing in
-                react, Javascript, css, Html and tailwind . I build
-                scalable, performant web applications that users love.
+                Customer-focused professional with experience in sales and service, currently building front-end development skills to support digital products and users effectively.
               </p>
             </div>
 
