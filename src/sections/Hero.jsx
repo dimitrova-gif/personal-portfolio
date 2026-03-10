@@ -81,7 +81,7 @@ export const Hero = () => {
               <AnimatedBorderButton>
                 <a 
                 className="flex items-center gap-4"
-                href="/RESUME RONILYN.docx" download>
+                href="/RoniDimitrova.pdf" download>
                   <Download className="w-5 h-5" />
                   Download CV
                 </a>
