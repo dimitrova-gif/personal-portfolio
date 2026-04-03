@@ -1,7 +1,7 @@
 const experiences = [
   {
     period: "2025 - 2026  Present",
-    role: "Frontend engineer (Personal Project)",
+    role: "Frontend Developer (Personal Project)",
     company: "Personal Portfolio",
     description:
       "Built a responsive portfolio website to showcase projects and skills",
