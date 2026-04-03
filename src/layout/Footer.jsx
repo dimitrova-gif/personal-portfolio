@@ -5,7 +5,7 @@ import React from 'react';
 const socialLinks = [
   { icon: Github, href: "https:github.com/dimitrova-gif", label: "Github"},
   { icon: Linkedin, href: "https://www.linkedin.com/in/ronilyn-abril-6759341b1/", label: "Linkedin"},
-  { icon: Mail, href: "mailto:ronilynabril215@gmail.com ronilynabril215@Gmail.com", label: "Mail"},
+  { icon: Mail, href: "mailto:ronilyn.dev@gmail.com", label: "Mail"},
 ];
 
 const footerLinks = [

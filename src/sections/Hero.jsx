@@ -95,7 +95,7 @@ export const Hero = () => {
               {[
                 { icon: Github, href: "https://github.com/dimitrova-gif" },
                 { icon: Linkedin, href: "https://www.linkedin.com/in/ronilyn-abril-6759341b1/" },
-                { icon: Mail, href: "mailto:ronilynabril215@gmail.com ronilynabril215@gmail.com" },
+                { icon: Mail, href: "mailto:ronilyn.dev@gmail.com" },
               ].map((social, idx) => (
                 <a
                   key={idx}
